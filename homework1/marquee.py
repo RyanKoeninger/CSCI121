@@ -1,0 +1,6 @@
+word = input("Word? ")
+length = len(word)
+print()
+print((length + 4)*"*")
+print("* " + word + " *")
+print((length+ 4)*"*")
